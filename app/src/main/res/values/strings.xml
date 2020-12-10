@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SkillBox</string>
+    <string name="hello_text">Привет! Это просто приложение с кнопочками. Нажми на них!</string>
+    <string name="btn_1">Кнопочка 1</string>
+    <string name="btn_2">Кнопочка 2</string>
+    <string name="btn_3">Кнопочка 3</string>
+</resources>
